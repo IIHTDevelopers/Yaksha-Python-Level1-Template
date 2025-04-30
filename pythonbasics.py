@@ -9,7 +9,7 @@ emergency_available = True
 # ✅ List (Departments in the hospital)
 departments = ["Cardiology", "Orthopedics", "Neurology", "Pediatrics"]
 
-# ✅ Tuple (Doctors available)
+# ✅ Tuple (Doctors available in emergency)
 doctors = ("Dr. Smith", "Dr. Johnson", "Dr. Lee", "Dr. Patel")
 
 # ✅ Dictionary (Patient records)
@@ -22,19 +22,19 @@ patients = {
 # ✅ Set (Emergency patients)
 emergency_patients = {"Bob", "Alice"}
 
-# ✅ Function to display hospital information
+# ✅ Function to return hospital information
 def display_hospital_info():
-    # TODO: Implement function to display hospital details
+    # TODO: Implement function to return hospital details
     pass
 
-# ✅ Function to display patient records
+# ✅ Function to return patient records
 def display_patients():
-    # TODO: Implement function to display patient information
+    # TODO: Implement function to return patient information
     pass
 
 # ✅ Function to check if a patient is in emergency
 def check_emergency(patient_name):
-    # TODO: Implement emergency check logic use if else make bob as emergency
+    # TODO: Implement emergency check 
     pass
 
 # ✅ Main function to execute the program
