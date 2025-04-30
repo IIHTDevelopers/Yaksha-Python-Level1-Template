@@ -5,7 +5,7 @@ class GradeManager:
         self.filename = filename
 
     def add_default_students(self):
-         students = [
+        students = [
             ("1001", "Alice Johnson", "Mathematics", "A"),
             ("1002", "Bob Smith", "Physics", "B+"),
             ("1003", "Charlie Brown", "Chemistry", "A-"),
