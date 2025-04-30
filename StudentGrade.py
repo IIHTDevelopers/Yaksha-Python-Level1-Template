@@ -10,8 +10,8 @@ class GradeManager:
         pass
 
     def view_grades(self):
-        """Reads and displays all student grades from the file."""
-        # TODO: Implement logic to read and display student grades
+        """Reads and returns student grades from the file."""
+        # TODO: Implement logic to read and returns student grades
         pass
 
 def main():
