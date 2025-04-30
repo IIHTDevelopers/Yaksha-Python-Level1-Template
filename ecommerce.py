@@ -12,10 +12,10 @@ cart_items = [
     {"Item": "USB Drive", "Price": 30, "Quantity": 2},
 ]
 
-# --- Function to Display Shopping Cart ---
+# --- Function to  Return Detials of Shopping Cart ---
 def display_cart(cart):
-    """Displays the shopping cart in a structured format."""
-    # TODO: Implement display logic using Pandas DataFrame
+    """Returns the shopping cart """
+    # TODO: Implement  logic using Pandas DataFrame
     pass
 
 def price_analysis(cart):
