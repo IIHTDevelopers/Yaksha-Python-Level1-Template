@@ -5,6 +5,13 @@ class GradeManager:
         self.filename = filename
 
     def add_default_students(self):
+         students = [
+            ("1001", "Alice Johnson", "Mathematics", "A"),
+            ("1002", "Bob Smith", "Physics", "B+"),
+            ("1003", "Charlie Brown", "Chemistry", "A-"),
+            ("1004", "Daisy Miller", "English", "B"),
+            ("1005", "Ethan Davis", "History", "A"),
+        ]
         """Adds five default student records to the file."""
         # TODO: Implement logic to add default students to the file
         pass
