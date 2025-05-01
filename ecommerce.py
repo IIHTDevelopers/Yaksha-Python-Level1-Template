@@ -20,7 +20,7 @@ def display_cart(cart):
 
 def price_analysis(cart):
     """Analyzes item price statistics using NumPy."""
-    # TODO: Implement price analysis using NumPy (min, max, mean, std)
+    # TODO: Implement price analysis using NumPy (min, max, mean)
     pass
 
 
